@@ -69,16 +69,28 @@ ggplot(data = UnitedStates.Canada.Australia, aes(x = lifeExp, y = gdpPercap)) + 
 
 ```
 
-![](Screen%20Shot%202023-02-16%20at%205.36.09%20PM.png)
+Screenshot 1
 
-![](Screen%20Shot%202023-02-16%20at%205.37.52%20PM.png)
+![](screenshot1.png){width="560"}
 
-![](Screenshot%202023-02-16%20at%205.38.17%20PM.png)
+Screenshot 2
+
+![](screenshot2.png){width="560"}
+
+Screenshot 3
+
+![](screenshot3.png){width="560"}
 
 3.  Write a paragraph (\~200 words) describing an example of what you consider data science. Write your paragraph in R Markdown. Include at least
     a.  one link to a chart or an image and
     b.  at least one itemized or enumerated list.
 
-To me, one cool thing that I consider data science is sport science.
+I believe that data science is a powerful tool to analyze and understand complex systems. One interesting example of data science is climate modeling. By analyzing large datasets of historical weather patterns, researchers can build complex mathematical models that simulate future weather conditions. These models take into account factors such as temperature, atmospheric pressure, wind patterns, and ocean currents, to predict how the climate will change over time. The output of these models is often presented as a visualization, such as a chart or map, that shows how different regions will be affected by rising temperatures, sea level rise, and other climate-related phenomena. An example of such a visualization can be found at <https://coast.noaa.gov/slr/#/layer/slr/2/-9660356.684045017/4946118.648082482/4/satellite/none/0.8/2050/interHigh/midAccretion>. Overall, data science plays a crucial role in understanding and addressing the challenges posed by climate change.
 
-For the submission: submit your solution in an **R Markdown file** and (just for insurance) submit the corresponding html (or Word) file with it.
+Without specific cases, some benefits of data science include:
+
+-   Improved decision making based on data-driven insights
+
+-   Faster and more accurate predictions for complex systems
+
+-   Identification of patterns and relationships that may not be apparent through other methods.
